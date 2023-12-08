@@ -2,8 +2,8 @@
 
 Liste os documentos disponibilizados nesta pasta com uma breve descrição do conteúdo de cada um deles.
 
-* Relatorio_Final_-_Aplicações_para_Processos de Negócios.pdf - Relatório do projeto.
-* apresentacao.mkv - Vídeo de apresentação do projeto.
-* apresentacao_slide_varejo.pptx - Slides da apresentação final do projeto.
+* `documentacao/Relatorio Final - Aplicações para Processos de Negócios.pdf` - Relatorio do projeto onde apresentamos os objetivos e suas justificativas, além dos relatórios analíticos.
+* `apresentacao.mkv` - Vídeo de apresentação do projeto.
+* `documentacao/Apresentacao slide Varejo.pptx` - Slides referente a apresentacao do projeto onde apresentamos a modelagem de processos do negócio, dados e tambem a automatização do processo e indicadores de desempenho.
 
 
