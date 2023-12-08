@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* Atendimento_ao_cliente.bpmn - Processo de login.
+* Gestao_de_produtos.bpmn - Processo de agendamento.
+
 
 
